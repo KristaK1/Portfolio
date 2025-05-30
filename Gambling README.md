@@ -1,0 +1,1 @@
+This project evaluated people who gamble or play the lottery as a form of entertainment. Using Tableau to evaluate, I created a campaign for Caesar’s Palace in Las Vegas to use in marketing to get more people to visit their property rather than play the lottery. This would also entice guests, as they are promoting a credit when booking. 
