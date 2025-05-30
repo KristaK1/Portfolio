@@ -1,0 +1,1 @@
+My professional portfolio showcases 10 different projects created during my masters program at Bellevue University. These projects include data cleansing, feature engineering, data modeling & evaluation, and visualization. 
