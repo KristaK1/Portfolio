@@ -1,0 +1,1 @@
+The Netflix viewership dataset was evaluated by the genre of television show, country, state, time of year, etc., to pitch a new campaign to the Netflix board. The data was evaluated, and I made the assumption that horror-based television shows were what was most popular and what the brand would need to invest in to be more successful.
