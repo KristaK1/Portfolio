@@ -1,4 +1,1 @@
-The dataset used in this project was used to evaluate the sleep, health, and lifestyle of participants in various occupations. 
-The two main questions for this project were 1) What occupation has the highest stress level, and 
-2) Based on quality of sleep, what is the average heart rate? I created a few visualizations to help answer these questions- mainly a bar chart and a boxplot. 
-The visualizations showed that a Sales Representative had the highest amount of stress, and that the heart rate ranged from 65-85 beats per minute based on stress. 
+This project was used to understand how to create compelling visuals that also allowed the user to understand the results displayed. A dataset that collected the BMI of a range of participants in different age ranges was evaluated to compare BMI by age and BMI class, and compare BMI to the BMI class. 
