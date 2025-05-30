@@ -1,0 +1,1 @@
+This project used the MNIST dataset to use deep learning for image classification. A CNN model was created to measure the accuracy, and the results show that the model was very accurate and reported about 99% accuracy in both training and test. 
