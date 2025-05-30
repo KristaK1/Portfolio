@@ -1,0 +1,1 @@
+The housing analysis project initiated a predictive analysis of housing prices based on different features the home has. The dataset did require feature engineering to become useful, which can be seen in the presentation. The two predictive models were created and evaluated- they would be best used by refreshing datasets frequently to keep up with everyday changes. 
